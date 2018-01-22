@@ -7,3 +7,7 @@ git add 文件名 添加文件到git仓库
 git commit -m '' 完成提交 -m注释
 git status 查看当前仓库状态
 git diff 查看修改内容
+git log 提交日志
+git reset --hard head^ 代码回滚
+git reflog 命令日志
+git push origin master 提交到github
